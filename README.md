@@ -32,7 +32,7 @@ A command-line tool that searches the web using DuckDuckGo's free API and genera
 - Used DuckDuckGo as it is free API (without key) giving instant results.
 
 \## Gemini AI Summary
-- Used Gemini 3.5-flash-lite API perform give AI summarization.
+- Used Gemini 3.5-flash-lite API to perform AI summarization.
 
 
 
